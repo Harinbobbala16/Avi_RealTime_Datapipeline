@@ -1,9 +1,6 @@
 bundle:
   name: Avi_RealTime_Datapipeline
 
-include:
-    - resources/*.yml
-
 targets:
   dev:
     mode: development
